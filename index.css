@@ -1,0 +1,11 @@
+.navbar{
+    background-color: black;
+}
+li a{
+    color: white;
+}
+
+
+li .right {
+    float: right;
+}
